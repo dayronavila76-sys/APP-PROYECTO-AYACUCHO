@@ -24,3 +24,10 @@ Sin autenticación, agencias, reservas, pagos, PWA instalable, datos oficiales, 
 
 ## Evidencia sugerida
 Capturas de la página inicial, generación exitosa, validación de error, terminal de tests y enlace real del repositorio. Registrar fecha y responsables en el Word.
+## Pruebas y mejora continua del PMV1
+
+Se realizaron seis pruebas automatizadas para verificar la generación de itinerarios, la validación de datos y el almacenamiento en SQLite.
+
+Durante las pruebas se detectó un problema con el cierre de las conexiones de la base de datos. Se corrigió el código y se ejecutaron nuevamente las seis pruebas, obteniendo resultados satisfactorios.
+
+Resultado final: 6 pruebas ejecutadas y 6 aprobadas.
