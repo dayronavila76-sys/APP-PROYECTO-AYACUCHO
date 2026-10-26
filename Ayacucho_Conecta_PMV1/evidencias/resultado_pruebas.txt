@@ -1,0 +1,11 @@
+test_cp01_valid_save (test_pmv.Tests.test_cp01_valid_save) ... ok
+test_cp02_invalid_days (test_pmv.Tests.test_cp02_invalid_days) ... ok
+test_cp03_invalid_budget (test_pmv.Tests.test_cp03_invalid_budget) ... ok
+test_cp04_missing_interest (test_pmv.Tests.test_cp04_missing_interest) ... ok
+test_cp05_invalid_not_saved (test_pmv.Tests.test_cp05_invalid_not_saved) ... ok
+test_cp06_no_budget_options (test_pmv.Tests.test_cp06_no_budget_options) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.083s
+
+OK
